@@ -1,6 +1,6 @@
 # Habit Tracker
 
-A new Flutter project that keep track of our daily habits, also shows heatmap of how we keeping up with our habits daily.
+A new Flutter App that keep track of our daily habits, also shows heatmap of how we keeping up with our habits daily.
 
 ## Getting Started
 
